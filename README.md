@@ -9,7 +9,7 @@
   </div>
 </div>
 
-<div id="body" align="center">
+<div id="body">
     <h2>Qui suis-je ?</h2>
     <p>Je suis un étudiant en informatique de 21 ans, passionné par le développement d'applications. Je préfère travailler sur le backend et j'aspire à me spécialiser dans le Développement Applicatif. Actuellement en alternance chez <a href="https://www.quadral.fr/le-groupe-quadral/quadral-e-services/" target="_blank" rel="noopener noreferrer">Quadral E-Service</a> en tant qu'apprenti développeur.</p>
     <h2>Quelles sont mes compétences ?</h2>
