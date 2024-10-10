@@ -11,7 +11,7 @@
 
 <div id="body">
     <h2>Qui suis-je ?</h2>
-    <p>Je suis un étudiant en informatique de 22 ans, passionné par le développement d'applications. Je préfère travailler sur le backend et j'aspire à me spécialiser dans le Développement Applicatif. Actuellement en alternance chez <a href="https://www.quadral.fr/le-groupe-quadral/quadral-e-services/" target="_blank" rel="noopener noreferrer">Quadral E-Service</a> en tant qu'apprenti développeur.</p>
+    <p>Je suis un étudiant en informatique de 22 ans, passionné par le développement d'applications. Je préfère travailler sur le backend et j'aspire à me spécialiser dans le Développement Applicatif. Actuellement en alternance chez <a href="https://acreos.eu/" target="_blank" rel="noopener noreferrer">ACREOS</a> en tant qu'apprenti développeur fullstack.</p>
     <h2>Quelles sont mes compétences ?</h2>
     <p>Je suis actuellement en formation à l'école <a href="https://www.mewo.fr/formations/informatique/" target="_blank" rel="noopener noreferrer">MEWO</a> pour obtenir un titre professionnel de niveau 7 (Bac+5) Expert en développement informatique.</p>
     
@@ -28,7 +28,7 @@
   <h2>🔧 Mes frameworks et outils</h2>
     <p>Et voici les frameworks et outils avec lesquels je travaille aussi :</p>
     <ul>
-        <li>React 🌐 - Mon framework préféré pour le développement front-end.</li>
+        <li>React 🌐 - Ma bibliothèque JS préférée pour le développement front-end.</li>
         <li>Quarkus 🚀 - Pour la création d'API Rest et back-end performantes.</li>
         <li>Godot 🎮 - Utilisé principalement pour le développement de jeux.</li>
         <li>Visual Studio Code 💻 - Idéal pour éditer du code rapidement et efficacement.</li>
