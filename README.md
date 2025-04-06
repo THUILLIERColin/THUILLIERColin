@@ -11,7 +11,7 @@
 
 <div id="body">
   <h2>Qui suis-je ?</h2>
-    <p>Je suis un étudiant en informatique de 22 ans, passionné par le développement d'applications. 
+    <p>Je suis un étudiant en informatique né en 2002, passionné par le développement d'applications. 
     <p>Je préfère travailler sur le backend et j'aspire à me spécialiser dans le Développement Applicatif.</p>
     <p>Actuellement en alternance chez <a href="https://acreos.eu/" target="_blank" rel="noopener noreferrer">ACREOS</a> en tant qu'apprenti développeur fullstack.</p>
     
