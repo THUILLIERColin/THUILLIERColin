@@ -1,56 +1,70 @@
-# Bienvenue sur mon profil GitHub! 😄
+# 👋 Bienvenue sur mon profil GitHub !
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/SHjOSDkKZ18qOHA5B5/giphy.gif" width="120"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/colin-thuillier-161447250/" target="_blank" rel="noopener noreferrer">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://colinthuillier.fr" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
   </div>
-</div>
+</div>  
 
-<div id="body">
-  <h2>Qui suis-je ?</h2>
-    <p>Je suis un étudiant en informatique né en 2002, passionné par le développement d'applications. 
-    <p>Je préfère travailler sur le backend et j'aspire à me spécialiser dans le Développement Applicatif.</p>
-    <p>Actuellement en alternance chez <a href="https://acreos.eu/" target="_blank" rel="noopener noreferrer">ACREOS</a> en tant qu'apprenti développeur fullstack.</p>
-    
-  <h2>Mes formations</h2>
-    <p>Titulaire d'une licence en informatique, je suis actuellement en formation à l'école <a href="https://www.mewo.fr/formations/informatique/" target="_blank" rel="noopener noreferrer">MEWO</a> pour obtenir un titre professionnel de niveau 7 (Bac+5) Expert en développement informatique.</p>
-    
-  <h2>🛠️ Mes langages de programmation</h2>
-    <p>Voici les langages de programmation que j'utilise régulièrement:</p>
-    <ul>
-        <li>Express.js 🚀 - Mon premier choix pour le développement back-end.</li>
-        <li>Python 🐍 - Utilisé pour des scripts et de la data science.</li>
-        <li>C# 🔷 - Pour le développement de jeux avec Godot et des applications.</li>
-        <li>C++ 💻 - J'apprécie grandement ce langage que j'ai eu l'occasion de pratiquer uniquement dans un contexte académique.</li>
-        <li>SQL 🗄️ - Pour gérer les bases de données.</li>
-    </ul>
-    
-  <h2>🔧 Mes frameworks et outils</h2>
-    <p>Et voici les frameworks et outils avec lesquels je travaille aussi :</p>
-    <ul>
-        <li>React.js 🌐 - Ma bibliothèque JS préférée pour le développement front-end.</li>
-        <li>Visual Studio Code 💻 - Idéal pour éditer du code rapidement et efficacement.</li>
-        <li>IntelliJ IDEA 💡 - Mon environnement de développement intégré de choix.</li>
-        <li>DataGrip 📊 - Pour la gestion avancée des bases de données.</li>
-    </ul>
+---
 
-  <h2>🗺️ Mes stacks en cours de formation</h2>
-    <p>Je me spécialise actuellement en autodidacte sur la stack suivante :</p>
-    <ul>
-        <li>Next.js 🌐 - Pour le développement d'applications web modernes.</li>
-        <li>Express.js 🚀 - Pour la création d'API Rest et back-end performantes.</li>
-        <li>PostgreSQL 🗄️ - Pour la gestion des bases de données.</li>
-        <li>Prisma 📊 - Pour la gestion des ORM.</li>
-        <li>Docker 🐳 - Pour la gestion des conteneurs.</li>
-    </ul>
-    <h3>🎯 Bonus</h3>
-    <ul>
-        <li>Cursor 🤖 - Un éditeur de code propulsé par l'IA qui améliore ma productivité </li>
-    </ul>
+## 👨‍💻 À propos
 
-  <h2>En savoir plus</h2>
-    <p>Si tu veux en savoir plus sur moi, tu peux aller voir mon portfolio <a href="https://colinthuillier.fr/" target="_blank" rel="noopener noreferrer">ici</a>.</p>
-</div>
+Je suis **Colin THUILLIER**, développeur **Fullstack & Mobile** chez [ACREOS](https://acreos.eu/).
+
+🎓 Diplômé d’un **Bac+5 Expert en Développement Informatique (MEWO)**.
+<br/>
+💡 Passionné par le **développement mobile et front moderne**, avec une solide expérience en **backend C# .NET et PostgreSQL**.
+
+---
+
+## 🛠️ Compétences
+
+### 🌐 Frontend & Mobile
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge\&logo=expo\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+
+### 🔙 Backend
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### ⚙️ DevOps & Outils
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-1A1A1A?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge\&logo=sonarqube\&logoColor=white)
+
+---
+
+## 🚀 Projets
+
+* **Culinaire Explore** 🌍 [👉 Voir le site](https://culinaire-explore.colinthuillier.fr/)
+  Site vitrine responsive imaginé pour une entreprise fictive de voyage culinaire, réalisé avec **Vite.js, React et Tailwind CSS**.
+
+* **App Recettes** 🍽️ *(projet perso)*
+  Application mobile familiale pour conserver et transmettre nos **recettes ancestrales**.
+  Une future évolution envisagée : intégrer **GPT** pour générer des recettes à partir d’ingrédients.
+
+* **PocketHub** 🎮 *(projet scolaire – non maintenu)*
+  Application mobile communautaire pour centraliser et partager ses contenus culturels
+  (films, séries, jeux vidéo, animés, livres).
+---
+
+## 🔗 En savoir plus
+
+* 🌍 Portfolio : [colinthuillier.fr](https://colinthuillier.fr)
+* 💼 LinkedIn : [Colin THUILLIER](https://www.linkedin.com/in/colin-thuillier-161447250/)
