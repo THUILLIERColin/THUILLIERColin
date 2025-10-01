@@ -16,7 +16,7 @@
 
 ## 👨‍💻 À propos
 
-Je suis un jeune développeur **Fullstack & Mobile**, du nom de **Colin THUILLIER** et âgé de <!--AGE-->22<!--/AGE--> ans.
+Je suis un jeune développeur **Fullstack & Mobile**, du nom de **Colin THUILLIER** et âgé de <!--AGE-->23<!--/AGE--> ans.
 
 🎓 Diplômé d’un **Bac+5 Expert en Développement Informatique (MEWO)**.
 <br/>
