@@ -2,28 +2,31 @@ name: Update Age
 
 on:
   schedule:
-    - cron: "0 0 6 5 *"
+    - cron: "0 0 6 5 *"   # chaque 6 mai à 00:00 UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-age:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
-      - name: Setup Node
-        uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
           node-version: "18"
 
       - name: Run age updater
         run: node update_age.js
 
-      - name: Commit changes
+      - name: Commit and push
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update age automatically"
-          git push
+          git commit -m "chore: update age automatically" || exit 0
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/THUILLIERColin/THUILLIERColin.git HEAD:main
